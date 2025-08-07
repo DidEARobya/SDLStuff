@@ -36,6 +36,12 @@
 *.svclog
 *.scc
 
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
 # Precompiled Headers
 *.gch
 *.pch
